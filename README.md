@@ -42,7 +42,7 @@ Third-party ad servers or ad networks uses technologies like cookies, JavaScript
 
 Note that Keep Your Notes has no access to or control over these cookies that are used by third-party advertisers.
 
-## Third Party Privacy Policices
+## Third Party Privacy Policies
 Keep Your Notes's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.
 
 You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.
