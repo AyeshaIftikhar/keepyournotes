@@ -1,6 +1,6 @@
 # Privacy Policy for Keep Your Notes
 
-At Keep Your Notes, accessible from [Keep Your Notes](), one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Her Amigo and how we use it.
+At Keep Your Notes, accessible from [Keep Your Notes](https://apkpure.com/p/com.github.keep_your_notes), one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Her Amigo and how we use it.
 
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 
